@@ -1,5 +1,7 @@
 # CZ1003-Telegram-Bot(ScrubzBot)
-This repository contains the codes and documents we use to build our Telegram Bot. In this repository, we propose a solution to facilitate the swapping of class index, allowing NTU students to secure their preferred timeslot for the courses that are they taking in that semester. Group members: Bryan Leow Xuan Zhen, Dennis Christopher Suherman, Kong Jie Wei, Lee Wei Min, Priscilla Teo Qiu Yee
+This repository contains the codes and documents we use to build our Telegram Bot. In this repository, we propose a solution to facilitate the swapping of class index, allowing NTU students to secure their preferred timeslot for the courses that are they taking in that semester. 
+
+Group members: Bryan Leow Xuan Zhen, Dennis Christopher Suherman, Kong Jie Wei, Lee Wei Min, Priscilla Teo Qiu Yee
 
 ## Dependencies (Ext) - all via pip
 - telepot
